@@ -41,7 +41,7 @@ Hi, I'm **Sakthi Kumar S** – a passionate Information Technology student from 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakthikumar&layout=compact&theme=tokyonight)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/) *(Update with your username)*
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/sakthiikumar/) 
 
 ---
 
