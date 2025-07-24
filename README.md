@@ -28,10 +28,9 @@ Hi, I'm **Sakthi Kumar S** – a passionate Information Technology student from 
 
 ## 🔗 Connect with Me
 
-- 🌐 [Portfolio](#) *(Add your link)*  
-- 💼 [LinkedIn](#) *(Add your LinkedIn URL)*  
-- 📷 [Instagram](#) *(Optional)*  
-- 📫 **Email**: sakthikumar.official@gmail.com
+  
+- 💼 [LinkedIn](#) www.linkedin.com/in/ꜱᴀᴋᴛʜɪ-ᴋᴜᴍᴀʀ-ꜱ-643222349 
+- 📫 **Email**: sakthiikumarans@gmail.com
 
 ---
 
